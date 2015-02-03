@@ -1,0 +1,29 @@
+{
+  "name": "jquery-oneordoubleclick",
+  "version": "0.1.0",
+  "description": "jQuery plugin to listen one or double click event for the same dom node.",
+  "homepage": "https://github.com/sgyyz/jquery-oneordoubleclick",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sgyyz/jquery-oneordoubleclick.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "jquery-oneordoubleclick"
+  ],
+  "author": "Troy Yang",
+  "license": {
+    "type": "MIT",
+    "url": "https://raw.githubusercontent.com/sgyyz/jquery-oneordoubleclick/master/LICENSE"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-clean": "^0.6.0",
+    "grunt-contrib-jshint": "^0.10.0",
+    "grunt-contrib-qunit": "^0.5.2",
+    "grunt-contrib-uglify": "^0.6.0",
+    "grunt-contrib-watch": "^0.6.1"
+  }
+}
