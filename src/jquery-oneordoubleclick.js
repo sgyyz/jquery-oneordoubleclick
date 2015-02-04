@@ -7,7 +7,7 @@
 				clearTimeout(s.timer);
 				s.timer = setTimeout(function() {
 					s.oneclick.call(self_obj, e);
-				}, 400);
+				}, s.interval);
 			};
 
 			do_dblclick = function(e) {
@@ -19,6 +19,7 @@
 	};
 
 	$.fn.oneordoubleclick.Default = {
+		interval: 400,
 		timer: null,
 		oneclick: $.noop,
 		dblclick: $.noop
