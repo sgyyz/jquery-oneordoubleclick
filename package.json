@@ -8,7 +8,7 @@
     "url": "https://github.com/sgyyz/jquery-oneordoubleclick.git"
   },
   "scripts": {
-    "test": "grunt test"
+    "test": "grunt && grunt test"
   },
   "keywords": [
     "jquery-oneordoubleclick"
