@@ -1,4 +1,4 @@
-jquery-oneordoubleclick
+jquery-oneordoubleclick [![Build Status](https://travis-ci.org/sgyyz/jquery-oneordoubleclick.svg?branch=master)](https://travis-ci.org/sgyyz/jquery-oneordoubleclick.svg?branch=master)
 ==================
 ##Usage
 ```javascript
