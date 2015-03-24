@@ -9,6 +9,8 @@ $target_node.oneordoubleclick({oneclick: function(){
     }
 });
 ```
+##Reference
+More details please visit [jQuery-OneOrDoubleClick Plugin](http://sgyyz.github.io/posts/javascript/jquery-oneordoubleclick.html).
 
 ##Contact
 If you have any idea please contact me by sending it to [itnote.yyz@gmail.com](itnote.yyz@gmail.com), or you can put your issue [here](https://github.com/sgyyz/jquery-oneordoubleclick/issues).
