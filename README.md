@@ -1,6 +1,7 @@
-jquery-oneordoubleclick [![Build Status](https://travis-ci.org/sgyyz/jquery-oneordoubleclick.svg?branch=master)](https://travis-ci.org/sgyyz/jquery-oneordoubleclick)
+[![Build Status](https://travis-ci.org/sgyyz/jquery-oneordoubleclick.svg?branch=master)](https://travis-ci.org/sgyyz/jquery-oneordoubleclick)
+jquery-oneordoubleclick 
 ==================
-##Usage
+## Usage
 ```javascript
 $target_node.oneordoubleclick({oneclick: function(){
         console.log('you have click this node.');
@@ -9,8 +10,8 @@ $target_node.oneordoubleclick({oneclick: function(){
     }
 });
 ```
-##Reference
+## Reference
 More details please visit [jQuery-OneOrDoubleClick Plugin](http://sgyyz.github.io/posts/javascript/jquery-oneordoubleclick.html).
 
-##Contact
+## Contact
 If you have any idea please contact me by sending it to [itnote.yyz@gmail.com](itnote.yyz@gmail.com), or you can put your issue [here](https://github.com/sgyyz/jquery-oneordoubleclick/issues).
